@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Shrutakeerti Datta</h1>
-<h3 align="center">I am a second year undergraduate at IEM,Kolkata.I am interested in various kind of DS,AI and ML Tech stacks. I am quite passionate about coding.</h3>
+<h3 align="center">I am a second year undergraduate at IEM,Kolkata.I am interested in various kind of DS,AI and ML Tech stacks. I am quite passionate about coding.I listen to music while coding it feels so good</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutakeerti&label=Profile%20views&color=0e75b6&style=flat" alt="shrutakeerti" /> </p>
