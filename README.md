@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrutakeerti Datta</h1>
 <h3 align="center">A junior year student at IEM K</h3>
 
- <img src=" <img src="https://komarev.com/ghpvc/?username=shrutakeerti&label=Profile%20views&color=0e75b6&style=flat" alt="shrutakeerti" />" alt="shrutakeerti" />
+ <img src=" <img src="https://tenor.com/view/wanna-code-code-headphones-baby-gif-25903730" />" alt="" />
 - 🔭 I’m currently working on [cool ideas](https://github.com/Shrutakeerti/Kpop-Aquatics)
 
 - 🌱 I’m currently learning **Docker, Cloud CI/CD tools**
