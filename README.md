@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I am not funny 🙊🙊**
 
-<img align="left" alt="Coding Fun" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img align="right" alt="Coding Fun" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
