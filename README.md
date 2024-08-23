@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrutakeerti Datta</h1>
 <h3 align="center">A junior year student at IEM K</h3>
 
- <img src=" <img src="https://tenor.com/view/wanna-code-code-headphones-baby-gif-25903730" />" alt="" />
+<div class="tenor-gif-embed" data-postid="25903730" data-share-method="host" data-aspect-ratio="0.865625" data-width="100%"><a href="https://tenor.com/view/wanna-code-code-headphones-baby-gif-25903730">Wanna Code Code GIF</a>from <a href="https://tenor.com/search/wanna+code-gifs">Wanna Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 - 🔭 I’m currently working on [cool ideas](https://github.com/Shrutakeerti/Kpop-Aquatics)
 
 - 🌱 I’m currently learning **Docker, Cloud CI/CD tools**
