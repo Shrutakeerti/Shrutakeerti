@@ -92,7 +92,6 @@
   </a> 
 </p>
 
-<img align="right" alt="Coding" width="300" length="100" src="<img align="right" alt="Coding" width="300" length="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVoZHQwbXIwZG1vNG5kNG1rdXYwaWZsaHJ1NW8zMDRjaXM5cWs5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ROlbnsc7aCIL6Icq6h/giphy.webp" />
 
 
 
