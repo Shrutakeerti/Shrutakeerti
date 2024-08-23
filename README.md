@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/hey-gif-27655214)
+[![MasterHead](<div class="tenor-gif-embed" data-postid="27655214" data-share-method="host" data-aspect-ratio="0.95" data-width="100%"><a href="https://tenor.com/view/hey-gif-27655214">Hey Sticker</a>from <a href="https://tenor.com/search/hey-stickers">Hey Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
 <h1 align="center">Hi 👋, I'm Shrutakeerti Datta</h1>
 <h3 align="center">I am a second year undergraduate at IEM,Kolkata.I am interested in various kind of DS,AI and ML Tech stacks. I am quite passionate about coding.I listen to music while coding it feels so good</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
