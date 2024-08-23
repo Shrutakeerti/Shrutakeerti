@@ -1,6 +1,6 @@
 <!-- Add a background GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/l3vR4Fp4U9ghGuVSo/giphy.gif" alt="background" width="100%" />
+  <img src="https://media1.tenor.com/m/lZLXs_C_w6wAAAAC/space-travel-the-coding-train.gif" alt="background" width="80%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Shrutakeerti Datta</h1>
