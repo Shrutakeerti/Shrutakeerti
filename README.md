@@ -1,6 +1,6 @@
 <!-- Add a background GIF -->
 <div align="center">
-  <img src="https://tenor.com/view/who-asked-gif-25956246" alt="background" width="100%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlqdHB5cHhjOXVjZDE3ZTB6MmU2emphNW9teWJjbXAwYzRxa2lzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wv1RNuvWMjQ10bzExO/giphy.webp" alt="background" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Shrutakeerti Datta</h1>
