@@ -1,12 +1,16 @@
 <!-- Add a background GIF -->
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlqdHB5cHhjOXVjZDE3ZTB6MmU2emphNW9teWJjbXAwYzRxa2lzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wv1RNuvWMjQ10bzExO/giphy.webp" alt="background" width="100%" />
+  <img src="https://media.giphy.com/media/l3vR4Fp4U9ghGuVSo/giphy.gif" alt="background" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Shrutakeerti Datta</h1>
 <h3 align="center">A junior year student at IEM K</h3>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shrutakeerti&label=Profile%20views&color=0e75b6&style=flat" alt="shrutakeerti" /> 
+</p>
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
 
 - 🔭 I’m currently working on [cool ideas](https://github.com/Shrutakeerti/Kpop-Aquatics)
 
@@ -18,7 +22,7 @@
 
 - ⚡ Fun fact **I am not funny 🙊🙊**
 
-<img align="right" alt="Coding Fun" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img align="left" alt="Coding Fun" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -93,4 +97,18 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutakeerti&show_icons=true&locale=en&layout=compact" alt="shrutakeerti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutakeerti&show_icons=true&locale=en" alt="shrutakeerti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutakeerti&" alt="shrutakeerti" /></p>
+
+<!-- Move the trophies to the bottom -->
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shrutakeerti&margin-w=15&margin-h=15" alt="shrutakeerti" />
+  </a> 
+</p>
+
+<!-- Add the snake animation -->
+<div align="center">
+  <img src="https://github.com/shrutakeerti/shrutakeerti/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
