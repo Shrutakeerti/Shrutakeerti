@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Shrutakeerti Datta</h1>
 <h3 align="center">A junior year student at IEM K</h3>
 
-<img align="right" alt="Coding" width="300" length="100" src="https://media1.tenor.com/m/22_Ltny6GkQAAAAC/mario-day.gif" />
+<img align="right" alt="Coding" width="300" length="100" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" />
 
 
 
