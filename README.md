@@ -1,14 +1,13 @@
+<!-- Add a background GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/l3vR4Fp4U9ghGuVSo/giphy.gif" alt="background" width="100%" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Shrutakeerti Datta</h1>
 <h3 align="center">A junior year student at IEM K</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=shrutakeerti&label=Profile%20views&color=0e75b6&style=flat" alt="shrutakeerti" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shrutakeerti" alt="shrutakeerti" />
-  </a> 
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
@@ -22,6 +21,8 @@
 - 📫 How to reach me **shrutakeerti1601@gmail.com**
 
 - ⚡ Fun fact **I am not funny 🙊🙊**
+
+<img align="left" alt="Coding Fun" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -96,8 +97,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutakeerti&show_icons=true&locale=en&layout=compact" alt="shrutakeerti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutakeerti&show_icons=true&locale=en" alt="shrutakeerti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutakeerti&" alt="shrutakeerti" /></p>
-
-![Snake animation](https://github.com/Shrutakeerti/Shrutakeerti/blob/output/github-contribution-grid-snake.svg)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel
