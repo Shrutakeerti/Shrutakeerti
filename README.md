@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Shrutakeerti Datta</h1>
 <h3 align="center">A junior year student at IEM K</h3>
 
-<img align="right" alt="Coding" width="300" length="100" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" />
+<img align="right" alt="Coding" width="300" length="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVoZHQwbXIwZG1vNG5kNG1rdXYwaWZsaHJ1NW8zMDRjaXM5cWs5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ROlbnsc7aCIL6Icq6h/giphy.webp" />
 
 
 
