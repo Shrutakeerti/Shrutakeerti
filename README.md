@@ -93,7 +93,7 @@
 </p>
 
 
-
+[![Shrutakeerti's GitHub | Stats](https://stats.quira.sh/Shrutakeerti/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shrutakeerti)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutakeerti&show_icons=true&locale=en&layout=compact" alt="shrutakeerti" /></p>
