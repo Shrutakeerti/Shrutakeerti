@@ -97,7 +97,7 @@
 
 [![Shrutakeerti's GitHub | Dependencies](https://stats.quira.sh/Shrutakeerti/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shrutakeerti)
 
-<img align="right" alt="Coding" width="300" length="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdxMGI3czF2a3Y1eTZydTBnNml5MjB2YjJhYm45cXcwOGhkOGh4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp" />
+<img align="right" alt="Coding" width="300" length="100" src="https://media1.tenor.com/m/22_Ltny6GkQAAAAC/mario-day.gif" />
 
   
 
