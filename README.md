@@ -32,9 +32,8 @@
   <a href="https://www.leetcode.com/shrutakeerti" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrutakeerti" height="30" width="40" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/user/shrutakee75rf" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/shrutakee75rf" height="30" width="40" />
-  </a>
+  <a href="https://auth.geeksforgeeks.org/user/shrutakee75rf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
+  generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shrutakee75rf/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
