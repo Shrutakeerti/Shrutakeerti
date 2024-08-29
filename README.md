@@ -23,17 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/shrutakeerti-datta-872179246" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutakeerti-datta-872179246" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/shrutakeertidatta" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shrutakeertidatta" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/shrutakeerti" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrutakeerti" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/shrutakee75rf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
-  generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shrutakee75rf/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shrutakeerti-datta-872179246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutakeerti-datta-872179246" height="30" width="40" /></a>
+<a href="https://kaggle.com/shrutakeertidatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shrutakeertidatta" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shrutakeerti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrutakeerti" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shrutakee75rf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shrutakee75rf/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
