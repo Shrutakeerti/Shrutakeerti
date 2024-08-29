@@ -91,7 +91,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-
+<img align="right" alt="Coding" width="300" length="100" src="https://media1.tenor.com/m/22_Ltny6GkQAAAAC/mario-day.gif" />
 
 [![Shrutakeerti's GitHub | Stats](https://stats.quira.sh/Shrutakeerti/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shrutakeerti)
 
@@ -103,7 +103,7 @@
 
 
 
-<img align="right" alt="Coding" width="300" length="100" src="https://media1.tenor.com/m/22_Ltny6GkQAAAAC/mario-day.gif" />
+
 
   
 
