@@ -97,8 +97,8 @@
 
 [![Shrutakeerti's GitHub | Dependencies](https://stats.quira.sh/Shrutakeerti/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shrutakeerti)
 
-
-  <iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
+  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutakeerti&show_icons=true&locale=en&layout=compact" alt="shrutakeerti" /></p>
 
