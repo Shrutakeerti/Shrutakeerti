@@ -97,7 +97,7 @@
 
 [![Shrutakeerti's GitHub | Dependencies](https://stats.quira.sh/Shrutakeerti/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shrutakeerti)
 
-<iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
+<img align="right" alt="Coding" width="300" length="100" src="<img align="right" alt="Coding" width="300" length="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVoZHQwbXIwZG1vNG5kNG1rdXYwaWZsaHJ1NW8zMDRjaXM5cWs5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ROlbnsc7aCIL6Icq6h/giphy.webp" />" />
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutakeerti&show_icons=true&locale=en&layout=compact" alt="shrutakeerti" /></p>
