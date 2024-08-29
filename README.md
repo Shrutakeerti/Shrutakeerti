@@ -97,16 +97,6 @@
 
 [![Shrutakeerti's GitHub | Dependencies](https://stats.quira.sh/Shrutakeerti/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shrutakeerti)
 
-
-<img align="right" alt="Coding" width="300" length="100" src="![image](https://github.com/user-attachments/assets/440b176b-1f1e-4c3d-ac63-efdd65bdae29)
-" />
-
-
-
-
-
-  
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutakeerti&show_icons=true&locale=en&layout=compact" alt="shrutakeerti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutakeerti&show_icons=true&locale=en" alt="shrutakeerti" /></p>
