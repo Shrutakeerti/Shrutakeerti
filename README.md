@@ -97,7 +97,8 @@
 
 [![Shrutakeerti's GitHub | Dependencies](https://stats.quira.sh/Shrutakeerti/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shrutakeerti)
 
-<img align="right" alt="Coding" width="300" length="100" src="<img align="right" alt="Coding" width="300" length="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVoZHQwbXIwZG1vNG5kNG1rdXYwaWZsaHJ1NW8zMDRjaXM5cWs5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ROlbnsc7aCIL6Icq6h/giphy.webp" />" />
+<img align="right" alt="Coding" width="300" length="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdxMGI3czF2a3Y1eTZydTBnNml5MjB2YjJhYm45cXcwOGhkOGh4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp" />
+
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutakeerti&show_icons=true&locale=en&layout=compact" alt="shrutakeerti" /></p>
