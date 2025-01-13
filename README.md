@@ -1,15 +1,3 @@
-<!-- Add a background GIF -->
-<div align="center">
-  <img src="https://media1.tenor.com/m/lZLXs_C_w6wAAAAC/space-travel-the-coding-train.gif" alt="background" width="80%" />
-</div>
-
-<h1 align="center">Hi 👋, I'm Shrutakeerti Datta</h1>
-<h3 align="center">A junior year student at IEM K</h3>
-
-<img align="right" alt="Coding" width="300" length="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVoZHQwbXIwZG1vNG5kNG1rdXYwaWZsaHJ1NW8zMDRjaXM5cWs5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ROlbnsc7aCIL6Icq6h/giphy.webp" />
-
-
-
 - 🔭 I’m currently working on [cool ideas](https://github.com/Shrutakeerti/Kpop-Aquatics)
 
 - 🌱 I’m currently learning **Docker, Cloud CI/CD tools**
