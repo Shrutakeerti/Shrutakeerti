@@ -1,3 +1,10 @@
-# 💫 About Me:
-Hi, I am currently a senior year student at IEM K.<br>I have worked upon an harmful insect detection for crop production at the first year of my college. There I explored different kinds of algorithms of CV, YoloV8, SSD, Faster R-CNN. Used Anomaly Detection to detect the insects which had similar kinds of patterns present in them.<br><br>Worked on many NLP projects, explored the WordVec2 , Embeddings , Vectorized TF-IDF, BERT Models. Fine-tuned BERT models and explored various LSTM networks, lexicon-based methods for the implementation of the sentiment analysis of the twitter dataset and social media post reply pairs for the internship at LNMIIT.<br>At the internship of IIT Jodhpur, I worked upon the project for Eye pupil detection and the eye blink data production for understanding the working of the Brain and the EEG sensor data on the topic of Brain Science and Applications.I have worked with Kalman filters for predictive smoothening of the eye ball.Got introduced to the different parameters of the Brain and its attention significance<br><br>Explored many software and understood there functionalities and the backend infrastructure in order to understand the implementation. Used RAN-SAC for robust ellipse fitting, Circular Hough Transfer for the outlines. HOG and other CNNs, MobileNet for the Pupil detection.
+Hey, I'm Shrutakeerti! 🌱
+
+Robotics AI Engineer at Bharat Forge Ltd.
+
+I find joy in exploring how intelligence takes shape — from lines of code and neural networks to machines that can perceive and interact with the world.
+
+My interests wander across robotics, embodied AI, computer vision, NLP, and agentic systems. I love experimenting with ideas, learning from things that don't work, and occasionally stumbling upon something fascinating along the way.
+
+Still curious, still building, and always a student of the things I create.
 
